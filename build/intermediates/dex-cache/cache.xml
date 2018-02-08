@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/shreshthkharbanda/Desktop/Programming/Android/NavigateBetweenActivities/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/shreshthkharbanda/Desktop/Programming/Android/NavigateBetweenActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.1_e9b4e8237aa2b08a4a05ebff4f575404713ba6b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreshthkharbanda/Desktop/Programming/Android/NavigateBetweenActivities/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/shreshthkharbanda/Desktop/Programming/Android/NavigateBetweenActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.3.1_364013c4a605e7adb2cda6211c8c836dbb615179/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreshthkharbanda/Desktop/Programming/Android/NavigateBetweenActivities/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/shreshthkharbanda/Desktop/Programming/Android/NavigateBetweenActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.1_6a5bb568f1688d51d7ae73f1cd44dd4e00b60108/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreshthkharbanda/Desktop/Programming/Android/NavigateBetweenActivities/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/shreshthkharbanda/Desktop/Programming/Android/NavigateBetweenActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.3.1_ed1fbcd97c201ca93ed5839b1c9c06b47f2d670d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreshthkharbanda/Desktop/Programming/Android/NavigateBetweenActivities/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/shreshthkharbanda/Desktop/Programming/Android/NavigateBetweenActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.1_14adc28ee47b8e891bb57690e2e6cdd960427c29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreshthkharbanda/Desktop/Programming/Android/NavigateBetweenActivities/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/shreshthkharbanda/Desktop/Programming/Android/NavigateBetweenActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.1_c71fe780766489544146097c4b3a46983a1056bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreshthkharbanda/Desktop/Programming/Android/NavigateBetweenActivities/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2af5c2fd8f0aabb0f7a8d0e098b409f780b595b5">
+        <dex dex="/Users/shreshthkharbanda/Desktop/Programming/Android/NavigateBetweenActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_84aed75000033d5de6bd3d81fee4a68b18ec9d62/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreshthkharbanda/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/shreshthkharbanda/Desktop/Programming/Android/NavigateBetweenActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_ddcdcfa3944144578c9275fb51f10a2a7fa58935/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreshthkharbanda/Desktop/Programming/Android/NavigateBetweenActivities/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/shreshthkharbanda/Desktop/Programming/Android/NavigateBetweenActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.3.1_57b27c93a24c878336a6e7d2a201ee47d8a9ec88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreshthkharbanda/Desktop/Programming/Android/NavigateBetweenActivities/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/shreshthkharbanda/Desktop/Programming/Android/NavigateBetweenActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.1_682ff7bc33531ae821093056aadbdee7cf00b607/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreshthkharbanda/Desktop/Programming/Android/NavigateBetweenActivities/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/shreshthkharbanda/Desktop/Programming/Android/NavigateBetweenActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.1_048b265f506c5f3922f84c49e1368ddfa50cf637/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreshthkharbanda/Desktop/Programming/Android/NavigateBetweenActivities/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="10860da4ce9bb8b7335c90640d7d9096d5d7d737">
+        <dex dex="/Users/shreshthkharbanda/Desktop/Programming/Android/NavigateBetweenActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0d9fce8d2208316a16db3486685777248d2a8d5b/classes.dex" />
+    </item>
+
+</items>
